@@ -1,0 +1,11 @@
+.footer{
+    display: flex;
+    height: 30px;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: $color2;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
