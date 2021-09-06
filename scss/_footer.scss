@@ -1,0 +1,13 @@
+.footer{
+    display: flex;
+    height: 44px;
+    margin-top: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: $color2;
+    color: white;
+}

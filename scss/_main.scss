@@ -31,18 +31,19 @@
     margin: 0px auto;
     margin-top: 18px;
     text-align: center;
-    padding-bottom: 10px;
+    padding-bottom: 14px;
     border-bottom: 1px solid #ccc;
 }
 
 .section__article{
     padding: 0px 3%;
     margin-top: 16px;
+    font-size: 19px;
 }
 
 .section__article-h2{
     display: inline;
-    font-size: 22px;
+    font-size: 23px;
 }
 
 .section__h2--yellow{
@@ -70,7 +71,6 @@ color: $color5;
 
 .section__article-p{
     display: inline;
-    font-size: 18px;
 }
 
 .section__span{
