@@ -287,13 +287,14 @@ img {
   display: flex;
   position: relative;
   width: 90%;
-  margin-top: 32px;
+  margin-top: 24px;
+  margin-bottom: 20px;
   padding-bottom: 28px;
   background-color: white;
   flex-direction: column;
   flex-wrap: wrap;
-  border: 1px solid rgba(128, 128, 128, 0.616);
-  box-shadow: 0 0 10px rgba(100, 100, 111, 0.2);
+  border: 1px solid rgba(128, 128, 128, 0.411);
+  box-shadow: 0 0 10px rgba(69, 69, 78, 0.349);
 }
 
 .header {
@@ -434,12 +435,12 @@ img {
 }
 
 .aside__div {
-  margin-top: 32px;
+  margin-top: 24px;
 }
 
 .aside__div-content {
   width: 100%;
-  border-bottom: 2px #333333 dotted;
+  border-bottom: 3px #333333 dotted;
 }
 
 .aside__h3 {
@@ -452,6 +453,14 @@ img {
   margin-top: 15px;
   padding: 2px 0px;
   box-shadow: -2px -2px 2px #969696;
+}
+
+.aside__h3--blue {
+  color: #0C77F2;
+}
+
+.aside__h3--red {
+  color: #9B2422;
 }
 
 .aside__form {
@@ -558,7 +567,7 @@ img {
 
 .footer {
   display: flex;
-  height: 44px;
+  height: 52px;
   margin-top: 50px;
   font-family: "Times New Roman", Times, serif;
   font-size: 18px;

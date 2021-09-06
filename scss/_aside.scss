@@ -1,11 +1,11 @@
 .aside__div{
     @extend %master-aside;
-    margin-top: 32px;
+    margin-top: 24px;
 }
 
 .aside__div-content{
     width: 100%;
-    border-bottom: 2px $color2 dotted;
+    border-bottom: 3px $color2 dotted;
 }
 
 .aside__h3{
@@ -18,6 +18,14 @@
     margin-top: 15px;
     padding: 2px 0px;
     box-shadow: -2px -2px 2px rgb(150, 150, 150);
+}
+
+.aside__h3--blue{
+    color: $color3;
+}
+
+.aside__h3--red{
+    color: $color4;
 }
 
 .aside__form{
