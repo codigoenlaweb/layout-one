@@ -1,0 +1,17 @@
+%master-aside{
+    display: flex;
+    width: 78%;
+    margin: 0px auto;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    text-align: center;
+    background-color: white;
+    padding-bottom: 14px;
+    border: 1px solid rgba(128, 128, 128, 0.411);
+    @include shadow1(rgba(69, 69, 78, 0.349));
+}
+
+.mg-t1{
+    margin-top: 12px;
+}
