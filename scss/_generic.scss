@@ -1,3 +1,4 @@
+
 %master-aside{
     display: flex;
     width: 78%;
@@ -14,4 +15,17 @@
 
 .mg-t1{
     margin-top: 12px;
+}
+
+%section{
+    display: flex;
+    position: relative;
+    width: 90%;
+    margin-top: 32px;
+    padding-bottom: 22px;
+    background-color: white;
+    flex-direction: column;
+    flex-wrap: wrap;
+    border: 1px solid rgba(128, 128, 128, 0.616);
+    @include shadow1(rgba(100, 100, 111, 0.2));
 }
