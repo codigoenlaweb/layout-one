@@ -1,0 +1,166 @@
+@media (max-width: 1020px) {
+    .aside__div {
+        width: 90%;
+    }
+    .main__section {
+        width: 93%;
+    }
+    .header__img {
+        width: 120px;
+        margin: 15px 0px 4px 0px;
+    }
+}
+
+@media (max-width: 915px) {
+    .header__nav-li-a {
+        padding: 16px;
+        font-size: 18px;
+    }
+
+    .nav__ul-li {
+        padding: 15px 0px;
+    }
+
+    .header__nav-li-a {
+        padding: 16px;
+        font-size: 19px;
+    }
+
+    .aside__div {
+        width: 92%;
+    }
+    
+    .main__section {
+        width: 96%;
+    }
+}
+
+@media (max-width: 900px) {
+    .aside__div {
+        width: 80%;
+    }
+    .footer {
+        margin-top: 30px;
+    }
+}
+
+@media (max-width: 800px) {
+    .aside__div {
+        width: 92%;
+    }
+
+    .aside__div{
+        margin-top: 6px;
+        margin-bottom: 26px;
+    }
+
+    .main__section {
+        margin-top: 6px;
+        margin-bottom: 32px;
+    }
+
+    .footer {
+        margin-top: 25px;
+    }
+}
+
+@media (max-width: 640px) {
+    .aside__div {
+        width: 78%;
+        padding-bottom: 22px;
+    }
+
+    .aside__h3 {
+        width: 60%;
+        margin-top: 18px;
+        padding: 7px 0px;
+        font-size: 22px;
+    }
+
+    .form__input {
+        width: 70%;
+        margin: 4px 0px 10px 0px;
+    }
+
+    .aside__ul {
+        text-align: center;
+        margin-bottom: 18px;
+        padding: 0px 12px;
+    }
+
+    .aside__ul-li {
+        margin-bottom: 5px;
+        font-size: 19px;
+    }
+
+    .aside__form {
+        font-size: 20px;
+    }
+
+    .aside__p {
+        font-size: 18px;
+        padding: 12px 6%;
+    }
+
+    .aside__ul-li-a:hover {
+        font-size: 20px;
+        margin-left: 0%;
+    }
+
+    .section__h2 {
+        font-size: 26px;
+    }
+
+    .footer {
+        margin-top: 8px;
+    }
+}
+
+@media (max-width: 480px) {
+    .footer {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 380px) {
+    .aside__div {
+        width: 83%;
+        padding-bottom: 22px;
+    }
+
+    .header__h1 {
+        margin-bottom: 18px;
+        font-size: 30px;
+    }
+
+    .header__img {
+        width: 110px;
+        margin: 10px 0px 4px 0px;
+    }
+
+    .footer {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 310px) {
+    .footer {
+        font-size: 10px;
+    }
+
+    .header__h1 {
+    margin-bottom: 14px;
+    font-size: 25px;
+    }
+
+    .header__img {
+        width: 100px;
+        margin: 5px 0px 0px 0px;
+    }
+
+    .aside__div {
+        width: 90%;
+        padding-bottom: 26px;
+    }
+}
+

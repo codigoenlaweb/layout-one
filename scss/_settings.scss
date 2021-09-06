@@ -91,7 +91,7 @@ $font2: 'Rubik', sans-serif;
 }
 
 /* Small Size For Phone */
-@media screen and(max-width: 500px){
+@media screen and(max-width: 640px){
     .body1{
         grid-template-columns: 100%;
         grid-template-rows: repeat(4, auto);
@@ -107,8 +107,8 @@ $font2: 'Rubik', sans-serif;
         grid-template-rows: repeat(4, auto);
         grid-template-areas: 
         'header'
-        'main'
         'aside'
+        'main'
         'footer';
     }
     
