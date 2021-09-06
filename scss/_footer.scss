@@ -1,11 +1,12 @@
 .footer{
     display: flex;
-    height: 30px;
+    height: 44px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
     flex-direction: column;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
     background-color: $color2;
     color: white;
-    font-family: 'Times New Roman', Times, serif;
 }
