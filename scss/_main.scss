@@ -8,22 +8,6 @@
     @extend %section;
 }
 
-.scoth{
-    display: block;
-    position: absolute;
-    z-index: 2;
-}
-
-.scoth--left{
-    top: -19px;
-    left: 6.5%;
-}
-
-.scoth--right{
-    top: -19px;
-    left: 90%;
-}
-
 .section__h2{
     width: 96%;
     font-family: $font2;
